@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  rag-benchmark:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: rag-vs-long-context-benchmark:latest
+    container_name: rag_vs_long_context_container
+    environment:
+      - PYTHONUNBUFFERED=1
+      - CUDA_VISIBLE_DEVICES=0
+    volumes:
+      - .:/app
+      - ./results:/app/results
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [ gpu ]

@@ -1,0 +1,30 @@
+{
+  "rag": {
+    "beginning_25_percent": {
+      "bert_score_f1": 0.1419,
+      "count": 153
+    },
+    "middle_50_percent": {
+      "bert_score_f1": 0.1332,
+      "count": 32
+    },
+    "end_25_percent": {
+      "bert_score_f1": 0.1293,
+      "count": 15
+    }
+  },
+  "long_context": {
+    "beginning_25_percent": {
+      "bert_score_f1": 0.0928,
+      "count": 153
+    },
+    "middle_50_percent": {
+      "bert_score_f1": 0.0859,
+      "count": 32
+    },
+    "end_25_percent": {
+      "bert_score_f1": 0.0822,
+      "count": 15
+    }
+  }
+}

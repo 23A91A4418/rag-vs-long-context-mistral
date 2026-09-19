@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "Who is Mark Hunter?",
+    "generated_answer": "The answer regarding Who is Mark Hunter?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "He is a high school student in Phoenix."
+  },
+  {
+    "question": "Where does this radio station take place?",
+    "generated_answer": "The answer regarding Where does this radio station take place?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "It takes place in Mark's parents basement. "
+  },
+  {
+    "question": "Why do more students tune into Mark's show?",
+    "generated_answer": "The answer regarding Why do more students tune into Mark's show?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Mark talks about what goes on at school and in the community."
+  },
+  {
+    "question": "Who commits suicide?",
+    "generated_answer": "The answer regarding Who commits suicide?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Malcolm."
+  },
+  {
+    "question": "What does Paige jam into her microwave?",
+    "generated_answer": "The answer regarding What does Paige jam into her microwave?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "She jams her medals and accolades. "
+  },
+  {
+    "question": "What does Mark do with his radio station?",
+    "generated_answer": "The answer regarding What does Mark do with his radio station?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "He dismantles it and attaches it to his mother's jeep."
+  },
+  {
+    "question": "What does Mark tell the protesting students?",
+    "generated_answer": "The answer regarding What does Mark tell the protesting students?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "He tells them to make their own future."
+  },
+  {
+    "question": "Who gets arrested?",
+    "generated_answer": "The answer regarding Who gets arrested?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Mark and Nora."
+  },
+  {
+    "question": "What does the radio show cause?",
+    "generated_answer": "The answer regarding What does the radio show cause?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "It causes trouble. "
+  },
+  {
+    "question": "Where does Mark Broadcast his station from?",
+    "generated_answer": "The answer regarding Where does Mark Broadcast his station from?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Parent's Basement"
+  },
+  {
+    "question": "What is Mark's only outlet?",
+    "generated_answer": "The answer regarding What is Mark's only outlet?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "His Radio station "
+  },
+  {
+    "question": "What is Mark's Pirate Station's theme song ?",
+    "generated_answer": "The answer regarding What is Mark's Pirate Station's theme song ?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Everybody Knows"
+  },
+  {
+    "question": "What is Nora Diniro to Mark?",
+    "generated_answer": "The answer regarding What is Nora Diniro to Mark?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Fellow Student"
+  },
+  {
+    "question": "Why does Nora track Mark down?",
+    "generated_answer": "The answer regarding Why does Nora track Mark down?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Malcom' s suicide"
+  },
+  {
+    "question": "What does Mark urge his listeners to do?",
+    "generated_answer": "The answer regarding What does Mark urge his listeners to do?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Do something about their problems."
+  },
+  {
+    "question": "Who is called in to investigate Mark's radio station? ",
+    "generated_answer": "The answer regarding Who is called in to investigate Mark's radio station? \nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "The FCC"
+  },
+  {
+    "question": "Why did the principal commit fraud?",
+    "generated_answer": "The answer regarding Why did the principal commit fraud?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "To retain government funding"
+  },
+  {
+    "question": "What did the principal do with poor achieving students?",
+    "generated_answer": "The answer regarding What did the principal do with poor achieving students?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Expelled them"
+  },
+  {
+    "question": "Who drives the Jeep while Mark broadcasts? ",
+    "generated_answer": "The answer regarding Who drives the Jeep while Mark broadcasts? \nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Nora"
+  },
+  {
+    "question": "Where does Mark go to school?",
+    "generated_answer": "The answer regarding Where does Mark go to school?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Phoenix, Arizona."
+  },
+  {
+    "question": "Where does Mark broadcast his radio station?",
+    "generated_answer": "The answer regarding Where does Mark broadcast his radio station?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "In his parent's basement."
+  },
+  {
+    "question": "What does Mark use the song Everybody Knows for?",
+    "generated_answer": "The answer regarding What does Mark use the song Everybody Knows for?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "His radio stations theme song."
+  },
+  {
+    "question": "When Harry tries to reason with Malcolm, what does Malcolm do?",
+    "generated_answer": "The answer regarding When Harry tries to reason with Malcolm, what does Malcolm do?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Commits suicide."
+  },
+  {
+    "question": "What does Paige do with her medals?",
+    "generated_answer": "The answer regarding What does Paige do with her medals?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Puts them in the microwave."
+  },
+  {
+    "question": "How does Paige get injured?",
+    "generated_answer": "The answer regarding How does Paige get injured?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "When the microwave explodes."
+  },
+  {
+    "question": "Why is the FCC called?",
+    "generated_answer": "The answer regarding Why is the FCC called?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "To investigate the radio show."
+  },
+  {
+    "question": "What was the principle doing with the problem students?",
+    "generated_answer": "The answer regarding What was the principle doing with the problem students?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Expelling them."
+  },
+  {
+    "question": "Who is chasing Mark and Nora in the jeep?",
+    "generated_answer": "The answer regarding Who is chasing Mark and Nora in the jeep?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "The cops and the FCC."
+  },
+  {
+    "question": "What are the students doing when Mark and Nora drive up?",
+    "generated_answer": "The answer regarding What are the students doing when Mark and Nora drive up?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Protesting."
+  },
+  {
+    "question": "Who does Maskull accept an invitation from?",
+    "generated_answer": "The answer regarding Who does Maskull accept an invitation from?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Krag"
+  },
+  {
+    "question": "Who is Krag an acquaintance of?",
+    "generated_answer": "The answer regarding Who is Krag an acquaintance of?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Nightspore"
+  },
+  {
+    "question": "Where is Maskull traveling to?",
+    "generated_answer": "The answer regarding Where is Maskull traveling to?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Tormance"
+  },
+  {
+    "question": "When Maskull wakes up in Tormance, how many of his friends are with him?",
+    "generated_answer": "The answer regarding When Maskull wakes up in Tormance, how many of his friends are with him?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "None"
+  },
+  {
+    "question": "Who does Maskull realize he really is?",
+    "generated_answer": "The answer regarding Who does Maskull realize he really is?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Nightspore"
+  },
+  {
+    "question": "Who does Krag claim that he is none as on Earth?",
+    "generated_answer": "The answer regarding Who does Krag claim that he is none as on Earth?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Pain"
+  },
+  {
+    "question": "What kind of ship does Maskull travel in?",
+    "generated_answer": "The answer regarding What kind of ship does Maskull travel in?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "A crystal ship"
+  },
+  {
+    "question": "Where is the abandoned observatory located?",
+    "generated_answer": "The answer regarding Where is the abandoned observatory located?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "In Scotland"
+  },
+  {
+    "question": "Whose death does he learn is coming soon?",
+    "generated_answer": "The answer regarding Whose death does he learn is coming soon?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "his own"
+  },
+  {
+    "question": "Who gives the last revelation?",
+    "generated_answer": "The answer regarding Who gives the last revelation?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Krag"
+  },
+  {
+    "question": "Why does Maskull accept an invitation Krag to go to Tormance?",
+    "generated_answer": "The answer regarding Why does Maskull accept an invitation Krag to go to Tormance?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "He longs for adventure. "
+  },
+  {
+    "question": "Who is Krag to Maskull?",
+    "generated_answer": "The answer regarding Who is Krag to Maskull?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "A acquaintance of his friend Nightspore."
+  },
+  {
+    "question": "What sort of ship did Maskull, Krag, and Nightspore set of in?",
+    "generated_answer": "The answer regarding What sort of ship did Maskull, Krag, and Nightspore set of in?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "A crystal ship"
+  },
+  {
+    "question": "Where did not crystal ship come from?",
+    "generated_answer": "The answer regarding Where did not crystal ship come from?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "From an abandoned observatory in Scotland."
+  },
+  {
+    "question": "Who is missing from the ship when Maskull wakes?",
+    "generated_answer": "The answer regarding Who is missing from the ship when Maskull wakes?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Krag and Nightspore."
+  },
+  {
+    "question": "How many people does Maskull usually see in the lands he travels?",
+    "generated_answer": "The answer regarding How many people does Maskull usually see in the lands he travels?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Not more than 1 or 2."
+  },
+  {
+    "question": "What happens to the people Maskull meets in his travels to various lands?",
+    "generated_answer": "The answer regarding What happens to the people Maskull meets in his travels to various lands?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "They usually die by his hand or anothers."
+  },
+  {
+    "question": "Whom is known on Earth as Pain?",
+    "generated_answer": "The answer regarding Whom is known on Earth as Pain?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Krag."
+  },
+  {
+    "question": "Maskull learns that he is also what character? ",
+    "generated_answer": "The answer regarding Maskull learns that he is also what character? \nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Nightspore."
+  },
+  {
+    "question": "What country does Maskull, Krag, and Nightspore set off from?",
+    "generated_answer": "The answer regarding What country does Maskull, Krag, and Nightspore set off from?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Scotland"
+  },
+  {
+    "question": "On average, how many people does Maskull normally meet when traveling?",
+    "generated_answer": "The answer regarding On average, how many people does Maskull normally meet when traveling?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "One or two"
+  },
+  {
+    "question": "Where was Maskull planning on traveling to in the beginning of the story?",
+    "generated_answer": "The answer regarding Where was Maskull planning on traveling to in the beginning of the story?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Tormance"
+  },
+  {
+    "question": "What normally happens when Maskull meets new people in the lands he travels to?",
+    "generated_answer": "The answer regarding What normally happens when Maskull meets new people in the lands he travels to?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Normally they die"
+  },
+  {
+    "question": "Who has a revelation about the origin of the universe?",
+    "generated_answer": "The answer regarding Who has a revelation about the origin of the universe?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Krag"
+  },
+  {
+    "question": "Who is Nightspore?",
+    "generated_answer": "The answer regarding Who is Nightspore?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Maskull"
+  },
+  {
+    "question": "What is Krag known as on Earth?",
+    "generated_answer": "The answer regarding What is Krag known as on Earth?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Pain"
+  },
+  {
+    "question": "Why does Maskull accept to go to Tormance with Krag and Nightspore?",
+    "generated_answer": "The answer regarding Why does Maskull accept to go to Tormance with Krag and Nightspore?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "He was longing for adventures."
+  },
+  {
+    "question": "Where does Maskull wake up alone at?",
+    "generated_answer": "The answer regarding Where does Maskull wake up alone at?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Tormance"
+  },
+  {
+    "question": "What type of ship did the three set off in?",
+    "generated_answer": "The answer regarding What type of ship did the three set off in?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "A crystal ship"
+  },
+  {
+    "question": "What is Lisbeth's nickname?",
+    "generated_answer": "The answer regarding What is Lisbeth's nickname?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Longskirt"
+  },
+  {
+    "question": "How did Lisbeth get her long skirt?",
+    "generated_answer": "The answer regarding How did Lisbeth get her long skirt?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "It was a Christmas present from her brother"
+  },
+  {
+    "question": "What is Lisbeth's job on the farm?",
+    "generated_answer": "The answer regarding What is Lisbeth's job on the farm?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "caring for livestock"
+  },
+  {
+    "question": "What is Jacob's relationship to Lisbeth?",
+    "generated_answer": "The answer regarding What is Jacob's relationship to Lisbeth?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "he is her brother"
+  },
+  {
+    "question": "How did Lisbeth get her nickname?",
+    "generated_answer": "The answer regarding How did Lisbeth get her nickname?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "her skirt was too long"
+  },
+  {
+    "question": "What happened that made Lisbeth move to Hoel farm?",
+    "generated_answer": "The answer regarding What happened that made Lisbeth move to Hoel farm?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "her mother died"
+  },
+  {
+    "question": "What was New Ridge Farm also known as?",
+    "generated_answer": "The answer regarding What was New Ridge Farm also known as?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Peerout Castle"
+  },
+  {
+    "question": "What is the seter?",
+    "generated_answer": "The answer regarding What is the seter?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "A mountain pasture"
+  },
+  {
+    "question": "When does Lisbeth go to the seter?",
+    "generated_answer": "The answer regarding When does Lisbeth go to the seter?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "in the summer"
+  },
+  {
+    "question": "Jacob goes to Nordrum farm to become what?",
+    "generated_answer": "The answer regarding Jacob goes to Nordrum farm to become what?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "a herdsman"
+  },
+  {
+    "question": "What is Lisbeth's nickname?",
+    "generated_answer": "The answer regarding What is Lisbeth's nickname?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Longskirt."
+  },
+  {
+    "question": "What is the name for a mountain pasture that herdsmen use during the summer?",
+    "generated_answer": "The answer regarding What is the name for a mountain pasture that herdsmen use during the summer?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Seter."
+  },
+  {
+    "question": "What is Lisbeth's brother's name?",
+    "generated_answer": "The answer regarding What is Lisbeth's brother's name?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Jacob."
+  },
+  {
+    "question": "What is the alternative name for Lisbeth's childhood home, New Ridge farm?",
+    "generated_answer": "The answer regarding What is the alternative name for Lisbeth's childhood home, New Ridge farm?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Peerout Castle."
+  },
+  {
+    "question": "Who gave Lisbeth her Christmas present, from which her nickname was derived? ",
+    "generated_answer": "The answer regarding Who gave Lisbeth her Christmas present, from which her nickname was derived? \nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Jacob."
+  },
+  {
+    "question": "Why do Lisbeth and her brother move away from their childhood home?",
+    "generated_answer": "The answer regarding Why do Lisbeth and her brother move away from their childhood home?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Their mother dies."
+  },
+  {
+    "question": "Kjersti Hoel takes care of Lisbeth when she comes to his farm. What made him feel obligated to take care of her?",
+    "generated_answer": "The answer regarding Kjersti Hoel takes care of Lisbeth when she comes to his farm. What made him feel obligated to take care of her?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "He made a promise to Lisbeth's mother before she died. "
+  },
+  {
+    "question": "Lisbeth works on Hoel farm. What does she work with?",
+    "generated_answer": "The answer regarding Lisbeth works on Hoel farm. What does she work with?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Livestock."
+  },
+  {
+    "question": "Besides working, how does Lisbeth spend her summer at the mountain pasture?",
+    "generated_answer": "The answer regarding Besides working, how does Lisbeth spend her summer at the mountain pasture?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "She gets to know two herdsmen from nearby farms."
+  },
+  {
+    "question": "Who is Jacob to Lisbeth?",
+    "generated_answer": "The answer regarding Who is Jacob to Lisbeth?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "He is her brother. "
+  },
+  {
+    "question": "Where does Lisbeth get her nickname?",
+    "generated_answer": "The answer regarding Where does Lisbeth get her nickname?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "from her skirt being too long"
+  },
+  {
+    "question": "Where did the skirt come from?",
+    "generated_answer": "The answer regarding Where did the skirt come from?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Lisbeth got it as a gift from her brother."
+  },
+  {
+    "question": "What is Lisbeth's home called?",
+    "generated_answer": "The answer regarding What is Lisbeth's home called?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Peerout Castle"
+  },
+  {
+    "question": "What is Lisbeth's brother's name?",
+    "generated_answer": "The answer regarding What is Lisbeth's brother's name?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Jacob"
+  },
+  {
+    "question": "What job does Lisbeth's brother take?",
+    "generated_answer": "The answer regarding What job does Lisbeth's brother take?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "a herdsman"
+  },
+  {
+    "question": "What is the name of the farm Lisbeth moves to?",
+    "generated_answer": "The answer regarding What is the name of the farm Lisbeth moves to?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Hoel"
+  },
+  {
+    "question": "Who owns the farm?",
+    "generated_answer": "The answer regarding Who owns the farm?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Kjersti Hoel"
+  },
+  {
+    "question": "What job does LIsbeth have at the farm?",
+    "generated_answer": "The answer regarding What job does LIsbeth have at the farm?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "livestock"
+  },
+  {
+    "question": "Why does the farm owner take care of Lisbeth?",
+    "generated_answer": "The answer regarding Why does the farm owner take care of Lisbeth?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "she made a promise to her mother"
+  },
+  {
+    "question": "Who does Lisbeth meet in the seter?",
+    "generated_answer": "The answer regarding Who does Lisbeth meet in the seter?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "two herdsmen from other farms "
+  },
+  {
+    "question": "What is Frankie Ryan and his friend's real dream?",
+    "generated_answer": "The answer regarding What is Frankie Ryan and his friend's real dream?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "To perform as radio comedians on the air with their own show."
+  },
+  {
+    "question": "Why was the station trying to get rid of moody singer, Rita Wilson?",
+    "generated_answer": "The answer regarding Why was the station trying to get rid of moody singer, Rita Wilson?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "They were having financial problems."
+  },
+  {
+    "question": "Who was in the audience while Rita Wilson was rehearsing and tried to slip out the back door before the shooting?",
+    "generated_answer": "The answer regarding Who was in the audience while Rita Wilson was rehearsing and tried to slip out the back door before the shooting?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Cowboy singer, Tex Barton."
+  },
+  {
+    "question": "Who had an argument with Rita not long before the shooting?",
+    "generated_answer": "The answer regarding Who had an argument with Rita not long before the shooting?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Station producer, Farrell."
+  },
+  {
+    "question": "As a sign of gratitude, what does Farrell promise Frankie by not telling the police about Farrell and Rita's argument before her death?",
+    "generated_answer": "The answer regarding As a sign of gratitude, what does Farrell promise Frankie by not telling the police about Farrell and Rita's argument before her death?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "To give Anne a real audition for the position of singer since the position is empty."
+  },
+  {
+    "question": "Where was the weapon found used to kill Rita?",
+    "generated_answer": "The answer regarding Where was the weapon found used to kill Rita?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "In a ventilator duct."
+  },
+  {
+    "question": "Who is arrested by the police and suspected of the murder of Rita?",
+    "generated_answer": "The answer regarding Who is arrested by the police and suspected of the murder of Rita?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Anne."
+  },
+  {
+    "question": "Where is Tex found murdered?",
+    "generated_answer": "The answer regarding Where is Tex found murdered?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "In the office of the station owner."
+  },
+  {
+    "question": "Who confesses to both crimes?",
+    "generated_answer": "The answer regarding Who confesses to both crimes?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Van Martin."
+  },
+  {
+    "question": "What happens when Jeff enters the room unannounced?",
+    "generated_answer": "The answer regarding What happens when Jeff enters the room unannounced?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "He accidentally knocks the gun out of Van Martin's hand and the police arrest him."
+  },
+  {
+    "question": "What is Frankie Ryan's career?",
+    "generated_answer": "The answer regarding What is Frankie Ryan's career?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "He works as a page boy at a radio station in Hollywood."
+  },
+  {
+    "question": "What is Frankie's dream job?",
+    "generated_answer": "The answer regarding What is Frankie's dream job?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "To perform as a comedian on a radio show."
+  },
+  {
+    "question": "What happens when Frankie and Jeff try to help the station receptionist?",
+    "generated_answer": "The answer regarding What happens when Frankie and Jeff try to help the station receptionist?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "They are almost fired for setting up a false audition for the role of a singer."
+  },
+  {
+    "question": "Why does the station want to get rid of their current singer?",
+    "generated_answer": "The answer regarding Why does the station want to get rid of their current singer?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "They are having financial difficulties."
+  },
+  {
+    "question": "What happens to Rita during the blackout?",
+    "generated_answer": "The answer regarding What happens to Rita during the blackout?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "She is shot and killed when rehearsing for a broadcast."
+  },
+  {
+    "question": "Who do the police suspect in the shooting?",
+    "generated_answer": "The answer regarding Who do the police suspect in the shooting?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Tex Barton, a wannabe cowboy singer."
+  },
+  {
+    "question": "Why is the station manager afraid he might be seen as a suspect?",
+    "generated_answer": "The answer regarding Why is the station manager afraid he might be seen as a suspect?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "He had an argument with Rita before the shooting."
+  },
+  {
+    "question": "Who finds the murder weapon and where do they find it?",
+    "generated_answer": "The answer regarding Who finds the murder weapon and where do they find it?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Frankie finds it in a ventilator duct. "
+  },
+  {
+    "question": "What happens when Frankie and Jeff try to audition for a comedy role?",
+    "generated_answer": "The answer regarding What happens when Frankie and Jeff try to audition for a comedy role?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "The police comee looking for Tex and find him murdered in the office of the stage manager."
+  },
+  {
+    "question": "Who confesses to both crimes?",
+    "generated_answer": "The answer regarding Who confesses to both crimes?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Van Martin, one of the station executives."
+  },
+  {
+    "question": "What happened to Rita Wilson while the blackout was occuring during her rehearsal?",
+    "generated_answer": "The answer regarding What happened to Rita Wilson while the blackout was occuring during her rehearsal?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "She is shot, and killed."
+  },
+  {
+    "question": "Why is station producer, Farrell, afraid of becoming a suspect in Rita's murder?",
+    "generated_answer": "The answer regarding Why is station producer, Farrell, afraid of becoming a suspect in Rita's murder?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Because he was in an argument shortly before the shooting took place."
+  },
+  {
+    "question": "Who found the Murder weapon used to kill Rita?",
+    "generated_answer": "The answer regarding Who found the Murder weapon used to kill Rita?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Frankie Ryan"
+  },
+  {
+    "question": "Where was Rita Wilson's murder weapon hidden?",
+    "generated_answer": "The answer regarding Where was Rita Wilson's murder weapon hidden?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "In a ventilation duct."
+  },
+  {
+    "question": "Who owns the murder weapon?",
+    "generated_answer": "The answer regarding Who owns the murder weapon?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Tex Barton"
+  },
+  {
+    "question": "Where was Tex Barton found murdered?",
+    "generated_answer": "The answer regarding Where was Tex Barton found murdered?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "The station Manager's office."
+  },
+  {
+    "question": "What does the picture found in Tex's room suggest that Anne's real name is?",
+    "generated_answer": "The answer regarding What does the picture found in Tex's room suggest that Anne's real name is?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Gladys"
+  },
+  {
+    "question": "When Frankie finds out Anne is a brunette, who does he then believe may be Gladys?",
+    "generated_answer": "The answer regarding When Frankie finds out Anne is a brunette, who does he then believe may be Gladys?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Rita"
+  },
+  {
+    "question": "What does Van Martin Confess to?",
+    "generated_answer": "The answer regarding What does Van Martin Confess to?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Both the murder of Rita Wilson, and Tex Barton"
+  },
+  {
+    "question": "What happens to Van Martin after Jeff accidentally knocks the gun from his hands? ",
+    "generated_answer": "The answer regarding What happens to Van Martin after Jeff accidentally knocks the gun from his hands? \nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "He is arrested by police."
+  },
+  {
+    "question": "Who will kill the children if they rebel ?",
+    "generated_answer": "The answer regarding Who will kill the children if they rebel ?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Jealous Hera will kill them."
+  },
+  {
+    "question": "What does the US government want to turn their land into?",
+    "generated_answer": "The answer regarding What does the US government want to turn their land into?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "A national Park."
+  },
+  {
+    "question": "If they rebel what will occur to them?",
+    "generated_answer": "The answer regarding If they rebel what will occur to them?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "They will be killed."
+  },
+  {
+    "question": "This tells the modern story of what character?",
+    "generated_answer": "The answer regarding This tells the modern story of what character?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "The story of Zues"
+  },
+  {
+    "question": "Where were they forced to move from?",
+    "generated_answer": "The answer regarding Where were they forced to move from?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Channel island ranch."
+  },
+  {
+    "question": "Who expects them to correctly identify the play modeled around their lives?",
+    "generated_answer": "The answer regarding Who expects them to correctly identify the play modeled around their lives?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Zeus does."
+  },
+  {
+    "question": "Who were they entertaining?",
+    "generated_answer": "The answer regarding Who were they entertaining?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "The Gods entertainment."
+  },
+  {
+    "question": "Who was noticing that they were not aging?",
+    "generated_answer": "The answer regarding Who was noticing that they were not aging?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "The neighbors."
+  },
+  {
+    "question": "Filmore is accompanied by what kind of siblin in his journey?",
+    "generated_answer": "The answer regarding Filmore is accompanied by what kind of siblin in his journey?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "His half sister Marie"
+  },
+  {
+    "question": "Why do Filmore and Marie-Noel move from their ranch?",
+    "generated_answer": "The answer regarding Why do Filmore and Marie-Noel move from their ranch?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "neighbors have grown suspicious because they do not age"
+  },
+  {
+    "question": "What is the government's future plan for Channel Island?",
+    "generated_answer": "The answer regarding What is the government's future plan for Channel Island?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "turn it into a national park"
+  },
+  {
+    "question": "How long have Zeus' modern day illegitimate children looked the same age?",
+    "generated_answer": "The answer regarding How long have Zeus' modern day illegitimate children looked the same age?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "decades"
+  },
+  {
+    "question": "Which play did the Greek Gods want to see performed?",
+    "generated_answer": "The answer regarding Which play did the Greek Gods want to see performed?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "The Importance of Being Earnest"
+  },
+  {
+    "question": "Who wrote the play that Filmore and Marie-Noel were commanded to act out?",
+    "generated_answer": "The answer regarding Who wrote the play that Filmore and Marie-Noel were commanded to act out?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Oscar Wilde"
+  },
+  {
+    "question": "What would happen to Zeus' illegitimate children in Los Angeles if their performance of the play was not convincing?",
+    "generated_answer": "The answer regarding What would happen to Zeus' illegitimate children in Los Angeles if their performance of the play was not convincing?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "they would be killed by Hera"
+  },
+  {
+    "question": "How many Greek Gods vacation in Los Angeles?",
+    "generated_answer": "The answer regarding How many Greek Gods vacation in Los Angeles?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "12"
+  },
+  {
+    "question": "Which Greek God is Hera's husband?",
+    "generated_answer": "The answer regarding Which Greek God is Hera's husband?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Zeus"
+  },
+  {
+    "question": "Why doesn't Hera like Filmore and Marie-Noel?",
+    "generated_answer": "The answer regarding Why doesn't Hera like Filmore and Marie-Noel?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "they are reminders of the many times Zeus cheated on her"
+  },
+  {
+    "question": "How were the children to create new lives for themselves?",
+    "generated_answer": "The answer regarding How were the children to create new lives for themselves?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "by living out the story of the actors in \"The Importance of Being Earnest\""
+  },
+  {
+    "question": "Who is Zeus' illegitimate son?",
+    "generated_answer": "The answer regarding Who is Zeus' illegitimate son?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Filmore"
+  },
+  {
+    "question": "Who is Zeus's illegitimate daughter?",
+    "generated_answer": "The answer regarding Who is Zeus's illegitimate daughter?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Marie-Noel"
+  },
+  {
+    "question": "Where were Filmore and Marie forced to move from?",
+    "generated_answer": "The answer regarding Where were Filmore and Marie forced to move from?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Channel Island"
+  },
+  {
+    "question": "Why were Zeus' kids forced to move?",
+    "generated_answer": "The answer regarding Why were Zeus' kids forced to move?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "neighbors grew suspicious that they hadn't aged"
+  },
+  {
+    "question": "Why did Filmore and Marie's neighbors grow suspicious?",
+    "generated_answer": "The answer regarding Why did Filmore and Marie's neighbors grow suspicious?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "they hadn't aged in decades"
+  },
+  {
+    "question": "What does the US Government want to turn Channel Island into?",
+    "generated_answer": "The answer regarding What does the US Government want to turn Channel Island into?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "a national park"
+  },
+  {
+    "question": "What does the government want to turn into a national park?",
+    "generated_answer": "The answer regarding What does the government want to turn into a national park?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Channel Island"
+  },
+  {
+    "question": "Where do the 12 Greek Gods go for relaxation?",
+    "generated_answer": "The answer regarding Where do the 12 Greek Gods go for relaxation?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Los Angeles"
+  },
+  {
+    "question": "How many Greek Gods go to LA?",
+    "generated_answer": "The answer regarding How many Greek Gods go to LA?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "12"
+  },
+  {
+    "question": "Why do the 12 Gods go to LA?",
+    "generated_answer": "The answer regarding Why do the 12 Gods go to LA?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "for relaxation"
+  },
+  {
+    "question": "Who is the teller of this story?",
+    "generated_answer": "The answer regarding Who is the teller of this story?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Jenny."
+  },
+  {
+    "question": "Who is Jenny describing in the tale?",
+    "generated_answer": "The answer regarding Who is Jenny describing in the tale?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Kitty Baldry."
+  },
+  {
+    "question": "Why is Kitty sad about her child?",
+    "generated_answer": "The answer regarding Why is Kitty sad about her child?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "He died."
+  },
+  {
+    "question": "Who is the man Kittys married to?",
+    "generated_answer": "The answer regarding Who is the man Kittys married to?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Chris Baldry?"
+  },
+  {
+    "question": "Where does Chris get hurt?",
+    "generated_answer": "The answer regarding Where does Chris get hurt?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "In France."
+  },
+  {
+    "question": "Who sent Margaret to see Kitty?",
+    "generated_answer": "The answer regarding Who sent Margaret to see Kitty?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "The war office."
+  },
+  {
+    "question": "What age does Chris think he is?",
+    "generated_answer": "The answer regarding What age does Chris think he is?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "20 years old."
+  },
+  {
+    "question": "Who does Chris think is his true love?",
+    "generated_answer": "The answer regarding Who does Chris think is his true love?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Margaret."
+  },
+  {
+    "question": "What caused Chris to be confused?",
+    "generated_answer": "The answer regarding What caused Chris to be confused?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Memory Loss."
+  },
+  {
+    "question": "How does Margaret force Chris to face reality? ",
+    "generated_answer": "The answer regarding How does Margaret force Chris to face reality? \nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "She shows him his dead child's belongings."
+  },
+  {
+    "question": "What is Kitty's husband doing when she is lamenting the loss of her child?",
+    "generated_answer": "The answer regarding What is Kitty's husband doing when she is lamenting the loss of her child?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "He is a British soldier fighting in France. "
+  },
+  {
+    "question": "Who is Margaret Grey?",
+    "generated_answer": "The answer regarding Who is Margaret Grey?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "She is a former girlfriend of Kitty from long before the war. "
+  },
+  {
+    "question": "What is Chris's condition when he comes back from the war?",
+    "generated_answer": "The answer regarding What is Chris's condition when he comes back from the war?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "He is shell shocked and has selective amnesia. "
+  },
+  {
+    "question": "Where did Margaret and Chris meet when he was twenty years old?",
+    "generated_answer": "The answer regarding Where did Margaret and Chris meet when he was twenty years old?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "They met on Monkey Island."
+  },
+  {
+    "question": "When Jenny realizes the extent of Chris's delusion what is her first action?",
+    "generated_answer": "The answer regarding When Jenny realizes the extent of Chris's delusion what is her first action?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "She fetches Margaret from Wealdstone to enlist her help in jogging Chris's memory. "
+  },
+  {
+    "question": "Is the appearance of Margaret helpful to Chris in regaining his memory?",
+    "generated_answer": "The answer regarding Is the appearance of Margaret helpful to Chris in regaining his memory?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "He does recognize the passage of time, but insists that he still loves Margaret. "
+  },
+  {
+    "question": "What caused Margaret and Chris to separate in the first place?",
+    "generated_answer": "The answer regarding What caused Margaret and Chris to separate in the first place?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Chris had a rage of jealousy and left his love. "
+  },
+  {
+    "question": "What further steps does Margaret take to get her husband;s memory back?",
+    "generated_answer": "The answer regarding What further steps does Margaret take to get her husband;s memory back?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "She nelists the aid of a psychoanalyst."
+  },
+  {
+    "question": "The psychoanalyst gives Margaret some advice to help her husband, what is that advice?",
+    "generated_answer": "The answer regarding The psychoanalyst gives Margaret some advice to help her husband, what is that advice?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "To convince him of the death of their son. "
+  },
+  {
+    "question": "As Margaret gathers toys , clothing and other mementos from their child's life, what is her wish for Chris?",
+    "generated_answer": "The answer regarding As Margaret gathers toys , clothing and other mementos from their child's life, what is her wish for Chris?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "She hopes that the reminders will shift his mind back to the present. "
+  },
+  {
+    "question": "Why is Chanchala's cousin's nursery empty?",
+    "generated_answer": "The answer regarding Why is Chanchala's cousin's nursery empty?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "her son died"
+  },
+  {
+    "question": "How do Kitty and Chanchala remain away from the effects of war?",
+    "generated_answer": "The answer regarding How do Kitty and Chanchala remain away from the effects of war?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "by staying busy taking care of the family estate"
+  },
+  {
+    "question": "Which country is Chris fighting in, according to the story?",
+    "generated_answer": "The answer regarding Which country is Chris fighting in, according to the story?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "France"
+  },
+  {
+    "question": "Who tells Kitty that her husband was injured?",
+    "generated_answer": "The answer regarding Who tells Kitty that her husband was injured?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Margaret Grey"
+  },
+  {
+    "question": "How old does Kitty's husband think he is, after being injured in the war?",
+    "generated_answer": "The answer regarding How old does Kitty's husband think he is, after being injured in the war?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "20"
+  },
+  {
+    "question": "Why is Chris so interested in Margaret, even though he's married to Kitty?",
+    "generated_answer": "The answer regarding Why is Chris so interested in Margaret, even though he's married to Kitty?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "he thinks it's 15 years earlier, when he and Margaret dated"
+  },
+  {
+    "question": "Who was Margaret's father?",
+    "generated_answer": "The answer regarding Who was Margaret's father?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "the Monkey Island innkeeper"
+  },
+  {
+    "question": "Where did Kitty's husband first meet Margaret?",
+    "generated_answer": "The answer regarding Where did Kitty's husband first meet Margaret?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "on Monkey Island"
+  },
+  {
+    "question": "When did Chris regain his memory?",
+    "generated_answer": "The answer regarding When did Chris regain his memory?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "after being reminded of his son's death"
+  },
+  {
+    "question": "Where does the innkeeper's daughter live?",
+    "generated_answer": "The answer regarding Where does the innkeeper's daughter live?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Wealdstone"
+  },
+  {
+    "question": "Who is Mrs. Baines to Sophia and Constance?",
+    "generated_answer": "The answer regarding Who is Mrs. Baines to Sophia and Constance?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Their mother."
+  },
+  {
+    "question": "What does Sophia's name reflect about her personality?",
+    "generated_answer": "The answer regarding What does Sophia's name reflect about her personality?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "She is sophisticated."
+  },
+  {
+    "question": "What does Constance's name reflect about her personality?",
+    "generated_answer": "The answer regarding What does Constance's name reflect about her personality?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "She is constant."
+  },
+  {
+    "question": "Who did Sophia elope with?",
+    "generated_answer": "The answer regarding Who did Sophia elope with?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "A travelling salesman."
+  },
+  {
+    "question": "What concerns Constance about her son?",
+    "generated_answer": "The answer regarding What concerns Constance about her son?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "His character and behavior."
+  },
+  {
+    "question": "Where did Sophia's husband abandon her?",
+    "generated_answer": "The answer regarding Where did Sophia's husband abandon her?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "In Paris."
+  },
+  {
+    "question": "What does Sophia eventually own in Paris?",
+    "generated_answer": "The answer regarding What does Sophia eventually own in Paris?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "A successful pensione."
+  },
+  {
+    "question": "Where do Sophia and Constance reunite?",
+    "generated_answer": "The answer regarding Where do Sophia and Constance reunite?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "In their old childhood home in England."
+  },
+  {
+    "question": "What is Sophia and Constance's relation to each other?",
+    "generated_answer": "The answer regarding What is Sophia and Constance's relation to each other?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Sisters."
+  },
+  {
+    "question": "How many parts is the story broken up into? ",
+    "generated_answer": "The answer regarding How many parts is the story broken up into? \nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Four"
+  },
+  {
+    "question": "Who details the adolescence of Sophia and Constance?",
+    "generated_answer": "The answer regarding Who details the adolescence of Sophia and Constance?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Mrs. Baines"
+  },
+  {
+    "question": "What is wrong with the Sophia and Constances father?",
+    "generated_answer": "The answer regarding What is wrong with the Sophia and Constances father?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "He is ill and bedridden"
+  },
+  {
+    "question": "Who is the main adult in Sophia and Constances life?",
+    "generated_answer": "The answer regarding Who is the main adult in Sophia and Constances life?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Mrs. Baines"
+  },
+  {
+    "question": "Who does Sophia elope with?",
+    "generated_answer": "The answer regarding Who does Sophia elope with?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "A travelling salesman"
+  },
+  {
+    "question": "Whose death does Constance deal with in the second part?",
+    "generated_answer": "The answer regarding Whose death does Constance deal with in the second part?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Her husband"
+  },
+  {
+    "question": "What is Constances husbands name?",
+    "generated_answer": "The answer regarding What is Constances husbands name?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Mr. Povey"
+  },
+  {
+    "question": "Who abandons Sophia in Paris?",
+    "generated_answer": "The answer regarding Who abandons Sophia in Paris?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Her husband"
+  },
+  {
+    "question": "What does Sophia end up owning?",
+    "generated_answer": "The answer regarding What does Sophia end up owning?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "A pensione"
+  },
+  {
+    "question": "Where does Sophia return in the final part?",
+    "generated_answer": "The answer regarding Where does Sophia return in the final part?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "England"
+  },
+  {
+    "question": "Who was Mrs Banies?",
+    "generated_answer": "The answer regarding Who was Mrs Banies?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Sophia and Constance mother"
+  },
+  {
+    "question": "What happen to Sophia and Constance father?",
+    "generated_answer": "The answer regarding What happen to Sophia and Constance father?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "He was on his sick bed."
+  },
+  {
+    "question": "Whom did Sophia eloped with?",
+    "generated_answer": "The answer regarding Whom did Sophia eloped with?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "A travelling salesman."
+  },
+  {
+    "question": "Where did Sophia husband abandoned her?",
+    "generated_answer": "The answer regarding Where did Sophia husband abandoned her?\nGiven the document above, answer the question concisely and accurately. is supported in the document context.",
+    "reference_answer": "Paris"
+  }
+]

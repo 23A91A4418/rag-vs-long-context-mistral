@@ -1,0 +1,12 @@
+{
+  "rag": {
+    "median_query_latency_s": 0.036,
+    "generation_tokens_per_s": 2245.611,
+    "peak_gpu_memory_mb": 0.0
+  },
+  "long_context": {
+    "median_query_latency_s": 0.0075,
+    "generation_tokens_per_s": 3531.3129,
+    "peak_gpu_memory_mb": 0.0
+  }
+}

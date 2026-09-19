@@ -1,0 +1,15 @@
+{
+  "rag_scores": {
+    "rouge_1": 0.0526,
+    "rouge_l": 0.0492,
+    "bert_score_f1": 0.1396,
+    "ragas_faithfulness": 0.663,
+    "ragas_answer_relevancy": 1.0,
+    "ragas_context_recall": 0.5313
+  },
+  "long_context_scores": {
+    "rouge_1": 0.0413,
+    "rouge_l": 0.0382,
+    "bert_score_f1": 0.0909
+  }
+}
